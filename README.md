@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vijay Patil</h1>
 <h3 align="center">A passionate Data Science</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijay84sh" alt="vijay84sh" /></a> </p>
 
 - 🌱 I’m currently learning **Python,Pandas,Numpy,ML,Stats,SQL**
 
