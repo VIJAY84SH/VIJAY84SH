@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vijay Patil</h1>
-<h3 align="center">A passionate Data Science</h3>
+<h3 align="center">A Passionate Data Science</h3>
 
 
 - 🌱 I’m currently learning **Python,Pandas,Numpy,ML,Stats,SQL**
