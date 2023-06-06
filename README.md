@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Python,Pandas,Numpy,ML,Stats,SQL**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanu0925&label=Profile%20views&color=0e75b6&style=flat" alt="bhanu0925" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VIJAY84SH&label=Profile%20views&color=0e75b6&style=flat" alt="VIJAY84SH" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/VIJAY84SH](https://github.com/VIJAY84SH)
 
