@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Science</h3>
 
 
-- 🌱 I’m currently learning **Deep Learning, CNN, ANN**
+- 🌱 I’m currently learning **Deep Learning, CNN, ANN, LSTM**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VIJAY84SH&label=Profile%20views&color=0e75b6&style=flat" alt="VIJAY84SH" /> </p>
 
