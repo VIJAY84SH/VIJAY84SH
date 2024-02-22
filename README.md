@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/VIJAY84SH](https://github.com/VIJAY84SH)
 
-- 💬 Ask me about **Data, Machine Learning, NLP, Pandas, SQL, Stats, PowerBI, Tableau**
+- 💬 Ask me about **Data Science, Python, Machine Learning, NLP, Pandas, SQL, Stats, PowerBI, Tableau**
 
 - 📫 How to reach me **yajiv3116@gmail.com**
 
