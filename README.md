@@ -2,13 +2,13 @@
 <h3 align="center">A Passionate Data Science</h3>
 
 
-- 🌱 I’m currently learning **Deep Learning, CNN, ANN, LSTM**
+- 🌱 I’m currently learning **Generative AI**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VIJAY84SH&label=Profile%20views&color=0e75b6&style=flat" alt="VIJAY84SH" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/VIJAY84SH](https://github.com/VIJAY84SH)
 
-- 💬 Ask me about **Data Science, Python, Machine Learning, NLP, Pandas, SQL, Stats, PowerBI, Tableau**
+- 💬 Ask me about **Data Science, Python, Machine Learning, NLP, Pandas, SQL, Stats, PowerBI, TableauDeep Learning, CNN, ANN, LSTM**
 
 - 📫 How to reach me **yajiv3116@gmail.com**
 
